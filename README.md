@@ -1,0 +1,1 @@
+HEY!! I just wanted to test if I could push to github from my terminal (not the VSCode terminal)
